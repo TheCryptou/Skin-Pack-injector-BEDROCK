@@ -7,7 +7,9 @@ It’s fully **open source**, so you can view, edit, and reuse the code freely.
 The application is **free**, **secure**, and **collects no data**.
 
 # Requirements
-To use **Skin Pack Injector**, you need the original edition of **Minecraft Bedrock**.
+To use **Skin Pack Injector**, you need :
+- **Minecraft Bedrock Edition**
+- **Windows 10 or more**
 
 # How to Use
 You need to run the program as **Administrator** to access the Minecraft Bedrock files.  
